@@ -1,0 +1,2 @@
+# LogView
+Logging made easy
