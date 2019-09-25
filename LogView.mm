@@ -1,3 +1,5 @@
+// Copyright (c) 2019 bR34Kr
+
 #include "LogView.h"
 
 @implementation LogView {
