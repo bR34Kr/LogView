@@ -4,7 +4,7 @@
 ### Initializing
 First off, make a global variable `LogView *logView;`
 
-To initialize the newly created `logView` use the `-(void)initWithFrame:(CGRect) maxLines:(usnigned int)` method. Here is an example:
+To initialize the newly created `logView` use the `-(void)initWithFrame:(CGRect) maxLines:(unsigned int)` method. Here is an example:
 ```
 CGRect screen = [[UIScreen mainScreen] bounds];
 logView = [[LogView alloc] initWithFrame:screen maxLines:12];
